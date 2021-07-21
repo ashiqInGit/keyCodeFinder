@@ -3,4 +3,4 @@ This website can be used to find the specific key-code of the buttons on the Key
 
 view page:https://ashiqingit.github.io/keyCodeFinder/
 
-! Only for computer💻 not for phones📱 . 
+! Only for computers💻 not for mobile phones📱. 
