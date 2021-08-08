@@ -29,5 +29,21 @@ h2{
     font-size: 150px;
     padding: 20px;
     margin:0 auto;
-    margin-top: 100px;
+}
+
+
+.input-cont{
+    padding: 0 3em 3em 3em;
+}
+
+.userInput{
+    border: none;
+    outline: none;
+    background-color: none;
+    font-size: 5em;
+    font-weight: 900;
+    text-align: center;
+    width:2em;
+    height:2em;
+    background-color: whitesmoke;    
 }
